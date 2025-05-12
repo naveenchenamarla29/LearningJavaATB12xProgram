@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class MultipleMainMethods {
+public class Lab007_MultipleMainMethods {
 
     //Multiple main methods are possible due to method overloading
     //Can be discussed more on this in OOPS concepts in future lessons
