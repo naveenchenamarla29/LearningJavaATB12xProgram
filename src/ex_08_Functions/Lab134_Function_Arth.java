@@ -1,4 +1,4 @@
-package ex_13_Functions;
+package ex_08_Functions;
 
 import java.util.Scanner;
 
@@ -35,8 +35,7 @@ public class Lab134_Function_Arth {
         System.out.println(result_mul);
         System.out.println(result_div);
         System.out.println(result_mod);
-
-
+        
     }
 
     static int readInt(Scanner scanner, String prompt) {

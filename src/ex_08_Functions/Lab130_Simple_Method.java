@@ -1,4 +1,4 @@
-package ex_13_Functions;
+package ex_08_Functions;
 
 public class Lab130_Simple_Method {
 
@@ -22,7 +22,7 @@ public class Lab130_Simple_Method {
 
     // Return type function, it will return a particular data type.
     static  String return_type_func(){
-        System.out.println("Hi, Non Return Type");
+        System.out.println("Hi, Return Type");
         return "pramod";
     }
 
@@ -41,11 +41,5 @@ public class Lab130_Simple_Method {
     static long return_long(){
         return 10l;
     }
-
-
-
-
-
-
 
 }

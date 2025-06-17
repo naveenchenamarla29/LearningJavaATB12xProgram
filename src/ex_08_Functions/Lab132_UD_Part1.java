@@ -1,4 +1,4 @@
-package ex_13_Functions;
+package ex_08_Functions;
 
 import java.util.Scanner;
 
